@@ -54,4 +54,3 @@ set(get(gca, 'title'), 'FontSize', titleFontSize);
 axisLabelFontSize = 12;
 set(gca, 'FontSize', axisLabelFontSize);
 set(gca, 'XAxisLocation', 'origin');
-
