@@ -9,3 +9,5 @@ Code and resources for the Numerical Analysis Lab are available in this reposito
 
 4.task_104 : Newton-Raphson Method 
 
+# Matrix Manipulation:
+![Screenshot (3517)](https://github.com/Imroj-Hassan/Numerical-_Analysis_Lab/assets/107574392/0ffb8af2-eb18-4057-8d5e-b5854b73ce4a)
