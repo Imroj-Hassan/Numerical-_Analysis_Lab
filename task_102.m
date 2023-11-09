@@ -56,4 +56,3 @@ ylabel('Y');
 axisLabelFontSize = 12;
 set(gca, 'FontSize', axisLabelFontSize);
 set(gca, 'XAxisLocation', 'origin');
-
