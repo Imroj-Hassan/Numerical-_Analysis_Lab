@@ -11,3 +11,6 @@ Code and resources for the Numerical Analysis Lab are available in this reposito
 
 # Matrix Manipulation:
 ![Screenshot (3517)](https://github.com/Imroj-Hassan/Numerical-_Analysis_Lab/assets/107574392/0ffb8af2-eb18-4057-8d5e-b5854b73ce4a)
+
+# Bisection Method:
+![Screenshot (3519)](https://github.com/Imroj-Hassan/Numerical-_Analysis_Lab/assets/107574392/34c9e425-4ff5-455f-9f73-9b5288434d5b)
