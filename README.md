@@ -20,3 +20,7 @@ Code and resources for the Numerical Analysis Lab are available in this reposito
 
 #  Newton-raphson Method with tangent/slope line found at each iteration:
 ![Screenshot (3521)](https://github.com/Imroj-Hassan/Numerical-_Analysis_Lab/assets/107574392/bd61fb8d-be83-4ff7-a658-36e9eee8687b)
+
+#Task_201_2nd_task:
+Gauss elimination method is used to solve a system of linear equations. A system of linear equations is a group of linear equations with various unknown factors. As we know, unknown factors exist in multiple equations. Solving a system involves finding the value for the unknown factors to verify all the equations that make up the system.
+![Screenshot (5034)](https://github.com/Imroj-Hassan/Numerical-_Analysis_Lab/assets/107574392/d803d4ab-e297-4934-bec7-1ee69d2ac0ef)
